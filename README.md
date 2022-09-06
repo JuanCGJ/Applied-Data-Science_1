@@ -19,7 +19,7 @@ This course will introduce the learner to information visualization basics, with
 
 Documents of this course:
 
-assignement2.pdf 
-assignement2.py 
-NISPUF17.csv 
-NIS-PUF17-DUG.pdf 
+assignement2.pdf  
+assignement2.py  
+NISPUF17.zip (csv)  
+NIS-PUF17-DUG.pdf  
