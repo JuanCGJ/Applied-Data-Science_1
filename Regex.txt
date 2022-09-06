@@ -1,0 +1,2 @@
+Regular expresions regex (programar mediante caracteres)
+https://docs.python.org/3/library/re.html
