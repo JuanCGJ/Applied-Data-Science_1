@@ -32,3 +32,16 @@ assignement3.py
 Energy Indicators.xls  
 scimagojr-3.xlsx  
 world_bank.csv  
+
+week 4: Introduction to Data science
+
+Documents of this course:
+
+assignement4.pdf  
+assignement4.py  
+mlb.csv  
+nba.csv  
+nfl.csv  
+nhl.csv  
+wikipedia_data.html  
+
